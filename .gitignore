@@ -1,0 +1,31 @@
+dist
+node_modules
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.vscode/*
+
+# System Files
+.DS_Store
+Thumbs.db
+*.tsbuildinfo
+
+# Common backup files
+*.swp
+*.bak
+*.tmp
+*.orig
+
+# local files
+*.local
+*.local.sh
+*.local.md
+*.local.json
+*.local.js
+*.local.ts

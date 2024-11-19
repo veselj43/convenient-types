@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "importHelpers": false,
+    "lib": ["dom", "es2017"],
+    "module": "NodeNext",
+    "moduleResolution": "nodenext",
+    "noEmitHelpers": false,
+    "noEmitOnError": true,
+    "outDir": "dist",
+    "pretty": true,
+    "removeComments": true,
+    "sourceMap": true,
+    "strict": false,
+    "strictNullChecks": true,
+    "stripInternal": true,
+    "target": "es5",
+    "types": []
+  },
+  "include": ["src/**/*"],
+  "exclude": ["src/**/*.example.ts"]
+}
